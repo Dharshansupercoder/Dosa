@@ -1,0 +1,3 @@
+rice 
+Dal
+salt
